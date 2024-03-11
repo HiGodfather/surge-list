@@ -1,0 +1,7 @@
+# > Amazon Prime
+USER-AGENT,Argo*
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-KEYWORD, amazon
+
+    
