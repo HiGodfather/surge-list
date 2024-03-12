@@ -13,6 +13,7 @@ DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.com
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,oculuscdn.com
@@ -28,8 +29,6 @@ DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,gettr.com
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,rfi
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,t.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,himalaya.exchange
 DOMAIN-SUFFIX,bulianglin.com
