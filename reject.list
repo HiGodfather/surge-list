@@ -1,0 +1,25 @@
+# Ads in Video apps
+
+#bad social video app
+
+DOMAIN-SUFFIX,ixigua.com
+#DOMAIN-SUFFIX,pstatp.com
+#DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,aweme.snssdk.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,ixiguavideo.com
+#DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,huoshan.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,iesdouyin.com
+#DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,kuaishou.com
+#DOMAIN-SUFFIX,bilibili.com
+#DOMAIN-SUFFIX,bilibili.tv
+
+#keyword
+DOMAIN-KEYWORD, douyin
