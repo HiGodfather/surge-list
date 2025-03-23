@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD, .line
+DOMAIN-SUFFIX,reddit.com
 
 # > My List
 DOMAIN-SUFFIX,firstrade.com
