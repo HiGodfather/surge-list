@@ -40,6 +40,33 @@ IP-CIDR,198.45.48.0/20,no-resolve
 IP-CIDR,207.45.72.0/22,no-resolve
 IP-CIDR,208.75.76.0/22,no-resolve
 
+# > HBO NOW & HBO GO & Max
+USER-AGENT,HBO%20NOW*
+USER-AGENT,HBO%20GO*
+USER-AGENT,HBOAsia*
+DOMAIN-KEYWORD,disney
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,discomax.com
+#DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,manifest.prod.boltdns.net
+DOMAIN,s3-ap-southeast-1.amazonaws.com
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,hbounify-prod.evergent.com
+DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,hbomax-images.warnermediacdn.com
+
+
 # > Amazon Prime
 # USER-AGENT,Argo*
 DOMAIN-SUFFIX,amazonaws.com
